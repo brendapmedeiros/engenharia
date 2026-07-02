@@ -64,8 +64,7 @@ No modelo procedural, você define explicitamente os passos exatos de execução
 **Funcionou bem? Alguma dificuldade?** Sim, bem detalhado.
 
 ### Troubleshooting geral
-- 
-- 
+Não tive dificuldade de acesso às fontes, já usava a plataforma, o ajuste foi mais de refinar prompts.
 
 ---
 
