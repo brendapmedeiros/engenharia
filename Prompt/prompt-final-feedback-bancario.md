@@ -13,7 +13,7 @@ Serão fornecidos comentários com data, canal de atendimento, texto do feedback
 
 Você vai me entregar um resumo com até 5 linhas, uma tabela com tema, sentimento, evidência e ação sugerida, além de uma lista final com as 3 prioridades mais importantes.
 
-- Use apenas os dados fornecidos.
+- Use só os dados fornecidos.
 - Não invente números, causas ou conclusões.
 - Não exponha dados pessoais ou sensíveis.
 - Informe limitações quando os dados não forem suficientes.
